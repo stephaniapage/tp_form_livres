@@ -1,0 +1,18 @@
+{
+    "books": [
+        {
+            "title": "Il était une fois",
+            "author": "Stéphanie de Monaco",
+            "price": 4.78,
+            "available": true
+        },
+
+        {
+            "title": "Il était deux fois",
+            "author": "Monique de Monaco",
+            "price": 7,
+            "available": false
+        }
+    ],
+    "staff": []
+}
