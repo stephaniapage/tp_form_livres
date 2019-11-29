@@ -1,0 +1,22 @@
+form {
+    background: rgb(173, 173, 248);
+}
+
+input {
+    margin: 10px;
+
+}
+
+button {
+    float: right;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.fichedispo {
+    background: green;
+}
+
+.fichenondispo {
+    background: red;
+}
